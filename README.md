@@ -9,8 +9,7 @@ pake tools ini ajah auto kapok Wkwkwkwk
 - git clone https://github.com/Anonymous3-SIT/ICTspam
 - cd ICTspam
 - ls
-- php ICT
-spam.php
+- php ICTspam.php
 
 
 #INFO
