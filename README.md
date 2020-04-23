@@ -12,6 +12,10 @@ pake tools ini ajah auto kapok Wkwkwkwk
 - php ICTspam.php
 
 
+
+Example : php ICTspam.php 08xxxxxxxxxx
+
+
 #INFO
 - WhatsApp : 628999271792
 - GitHub   : https://github.com/Anonymous3-SIT
